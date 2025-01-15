@@ -1,0 +1,20 @@
+// {
+//     "files.exclude": {
+//         "ios": true,
+//         "node_modules": true,
+//         ".eslintrc.js": true,
+//         ".gitignore": true,
+//         ".prettierrc.js": true,
+//         ".watchmanconfig": true,
+//         ".bundle": true,
+//         "babel.config.js": true,
+//         "jest.config.js": true,
+//         "metro.config.js": true,
+//         "tsconfig.json": true,
+//         "Gemfile": true,
+//         // "index.js": true,
+//         // "app.json": true,
+//         "react-native.config.js": true,
+//         "package-lock.json": true,
+//       },
+// }
