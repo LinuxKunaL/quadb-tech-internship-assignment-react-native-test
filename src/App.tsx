@@ -16,7 +16,7 @@ function App(): React.JSX.Element {
   return (
     <NavigationContainer>
       <StatusBar translucent={false} backgroundColor={colors.dark} />
-      <Stack.Navigator initialRouteName="home">
+      <Stack.Navigator initialRouteName="splash">
         <Stack.Screen options={options} name="splash" component={Splash} />
         <Stack.Screen options={options} name="home" component={Home} />
         <Stack.Screen options={options} name="details" component={Details} />
