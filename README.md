@@ -1,7 +1,7 @@
 
 # Quadb Tech Internship Assignment 
 
-## APK Demo: File  [DOWNLOAD APK](./MovieDemo.apk)
+## APK Demo: File  [DOWNLOAD APK](https://raw.githubusercontent.com/LinuxKunaL/quadb-tech-internship-assignment-react-native-test/refs/heads/main/MovieDemo.apk)
 
 ## APP Screenshots 
 
